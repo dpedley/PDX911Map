@@ -1,0 +1,9 @@
+[submodule "externals/RestKit"]
+	path = externals/RestKit
+	url = https://github.com/RestKit/RestKit.git
+[submodule "externals/RKXMLReaderSerialization"]
+	path = externals/RKXMLReaderSerialization
+	url = https://github.com/RestKit/RKXMLReaderSerialization.git
+[submodule "externals/XML-to-NSDictionary"]
+	path = externals/XML-to-NSDictionary
+	url = https://github.com/RestKit/XML-to-NSDictionary.git
